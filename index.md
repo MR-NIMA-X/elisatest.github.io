@@ -1,8 +1,23 @@
-## QUEEN ELISA WHATSAPP BOT
+# QUEEN ELISA WHATSAPP BOT
 
-You can use the [editor on GitHub](https://github.com/MR-NIMA-X/elisatest.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Queen Elisa Versions 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ [`QUEEN ELISA V1`]()
+   
+   + Add Downloaders [ FB / TIKTOK / INSTA / YT ]
++ [`QUEEN ELISA V2`]()
+   + 𝙰𝚍𝚍 𝚛𝚎𝚊𝚌𝚝 𝚒𝚖𝚘𝚓𝚒𝚜
+   + 𝙰𝚍𝚍 𝚊𝚞𝚝𝚘 𝚛𝚎𝚊𝚌𝚝
+   + 𝚏𝚒𝚡 𝚝𝚒𝚔𝚝𝚘𝚔 
+   + 𝚊𝚍𝚍 𝚗𝚎𝚠 𝚏𝚋 𝚍𝚕
+   + 𝚊𝚍𝚍 𝚗𝚎𝚠 𝚜𝚘𝚗𝚐 𝚍𝚕
++ [`QUEEN ELISA V2.1.0`]()
+  + 𝙵𝚒𝚡 𝚋𝚞𝚝𝚝𝚘𝚗 𝚖𝚊𝚜𝚜𝚊𝚐𝚎
+  + 𝙰𝚍𝚍 𝚝𝚒𝚔𝚝𝚘𝚔 𝚍𝚕 2
+  + 𝙰𝚍𝚍 𝚏𝚋 𝚍𝚕 3
+  + 𝙰𝚍𝚍 𝚅𝚒𝚍𝚎𝚘 𝚍𝚕 2
+  + 𝙰𝚍𝚍 𝚕𝚢𝚛𝚒𝚌𝚜 𝚍𝚕
+
 
 ### Markdown
 
