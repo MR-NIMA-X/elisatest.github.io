@@ -1,12 +1,4 @@
-
-<div align="center">
-   
-   # QUEEN ELISA WHATSAPP BOT DETAILS
-   
-  <img src="https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg" width="300" height="300">
-  
-</div align="center">
-
+# QUEEN ELISA WHATSAPP BOT MD 2022
 
 ## Queen Elisa Versions 
 
@@ -49,11 +41,8 @@
 
 
 ##### `HOW TO DEPLOY`
- <img src="https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg" width="100" height="100">
 
 ##### `HOW TO GET EXTRA API`
- <img src="https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg" width="100" height="100">
-
- 
+  
  
  # [SUBSCRIBE MR NIMA OFC](https://youtube.com/c/NIMAOFC)
